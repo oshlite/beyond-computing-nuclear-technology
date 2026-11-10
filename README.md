@@ -1,7 +1,7 @@
 
 # Beyond Computing: Exploring the Intersection of Computer Science and Nuclear Technology
 
-**Author:** Oryza Surya Hapsari  
+**Author:** Oryza Hapsari  
 **Affiliation:** Computer Science, Faculty of Mathematics and Natural Sciences, University of Lampung, Indonesia  
 **Academic Level:** Seventh-Semester Undergraduate Student  
 **Research Interests:** Artificial Intelligence, Machine Learning, Data Science, and Computer Vision
@@ -193,7 +193,7 @@ Exploring nuclear technology has strengthened my appreciation for interdisciplin
 
 ## About the Author
 
-Oryza Surya Hapsari, Oryza Hapsari, is a seventh-semester undergraduate student in Computer Science at the Faculty of Mathematics and Natural Sciences, University of Lampung, Indonesia.
+Oryza Surya Hapsari is a seventh-semester undergraduate student in Computer Science at the Faculty of Mathematics and Natural Sciences, University of Lampung, Indonesia.
 
 Their academic interests include Artificial Intelligence, Machine Learning, Data Science, and Computer Vision. Their current undergraduate thesis focuses on Computer Vision.
 
